@@ -10,3 +10,4 @@ Flask-Cors
 pydotplus
 Flask-RESTful
 Flask-SQLAlchemy
+python-dotenv
