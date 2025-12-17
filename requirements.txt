@@ -11,3 +11,5 @@ pydotplus
 Flask-RESTful
 Flask-SQLAlchemy
 python-dotenv
+tweepy
+
